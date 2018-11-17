@@ -1,0 +1,38 @@
+body {
+    font-size: 18px;
+    line-height: 34px;
+    background-color: rgb(180, 179, 179)
+  }
+  
+  h1{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: dodgerblue;
+  }
+
+  .guess {
+      font-style: italic;
+      color: dodgerblue;
+      
+  }
+
+  .wins {
+      color: darkgreen;
+  }
+
+  .losses {
+      color: firebrick;
+  }
+
+  .gl {
+      color: rgb(207, 207, 4);
+  }
+
+  .gsf {
+      color: rgb(207, 136, 3);
+  }
+
+
+  
+  
